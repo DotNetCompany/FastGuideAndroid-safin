@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FastGuide</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_nearby">نزیک</string>
+    <string name="title_list">لیست</string>
+    <string name="title_search">گەڕان</string>
+    <string name="title_about">دەربارەی</string>
+    <string name="category">هاوپۆل</string>
+    <string name="nearby">نزیك</string>
+    <string name="list">لیست</string>
+    <string name="search">گه‌ڕان</string>
+    <string name="aboutt">ده‌رباره‌ی ئێمه‌</string>
+    <string name="btnTextkey">کوردی</string>
+    <string name="subcategory">به‌شێك له‌ هاوپۆل</string>
+    <string name="detailmap">نه‌خشه‌</string>
+    <string name="detail">درێژه‌</string>
+    <string name="placelist">شوێنه‌كان</string>
+    <string name="descriptionsectionkey">باسكردن</string>
+    <string name="contactsectionkey">په‌یوه‌ندی</string>
+    <string name="locationsectionkey">شوێن</string>
+    <string name="gallerysectionkey">گه‌له‌ری</string>
+    <string name="panoramasectionkey">پانۆراما</string>
+</resources>

@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">FastGuide</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_nearby">Near By</string>
+    <string name="title_list">List</string>
+    <string name="title_search">Search</string>
+    <string name="title_about">About</string>
+    <string name="category">Category</string>
+    <string name="nearby">Near by</string>
+    <string name="list">List</string>
+    <string name="search">Search</string>
+    <string name="aboutt">About Us</string>
+    <string name="btnTextkey">English</string>
+    <string name="subcategory">Sub category</string>
+    <string name="detailmap">Map</string>
+    <string name="detail">Detail</string>
+    <string name="placelist">Places</string>
+    <string name="descriptionsectionkey">Description</string>
+    <string name="contactsectionkey">Contacts</string>
+    <string name="locationsectionkey">Location</string>
+    <string name="gallerysectionkey">Gallery</string>
+    <string name="panoramasectionkey">Panorama</string>
+
+
+</resources>

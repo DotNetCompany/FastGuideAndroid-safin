@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FastGuide</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_nearby">مجاوز</string>
+    <string name="title_list">قائمة</string>
+    <string name="title_search">بحث</string>
+    <string name="category">الفئة</string>
+    <string name="nearby">مجاوز</string>
+    <string name="list">قائمة</string>
+    <string name="search">بحث</string>
+    <string name="aboutt">معلومات عنا</string>
+    <string name="btnTextkey">العربییة</string>
+    <string name="subcategory">فئة فرعية</string>
+    <string name="detailmap">خريطة</string>
+    <string name="detail">التفاصيل</string>
+    <string name="placelist">Places</string>
+    <string name="descriptionsectionkey">وصف</string>
+    <string name="contactsectionkey">جهات الاتصال</string>
+    <string name="locationsectionkey">موقع</string>
+    <string name="gallerysectionkey">صالة عرض</string>
+    <string name="panoramasectionkey">بانوراما</string>
+    <string name="title_about">معلومات عنا</string>
+</resources>

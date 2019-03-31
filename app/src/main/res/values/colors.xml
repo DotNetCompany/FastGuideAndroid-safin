@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+    <color name="colorPrimary">#25a1a1</color>
+    <color name="colorPrimaryDark">#25a1a1</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="navigationbarcolor">#25a1a1</color>
+    <color name="navigationselected">#fff701</color>
+    <color name="navigationbaritem">#ffffff</color>
+    <color name="silver">#EBEBEB</color>
+
+</resources>

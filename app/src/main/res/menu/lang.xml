@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/langEN"
+        android:title="English" />
+    <item
+        android:id="@+id/langAR"
+        android:title="العربییة" />
+    <item
+        android:id="@+id/langKU"
+        android:title="کوردی" />
+    <item
+        android:id="@+id/langtxt"
+        android:title="کوردی"
+        app:showAsAction="always" />
+</menu>
